@@ -1,0 +1,3 @@
+Optimized DFT Energy: -1172.380712 Hartree
+HOMO-LUMO gap: 0.239763 Hartree
+Dipole moment (Debye): 0.5458
