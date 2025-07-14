@@ -16,6 +16,8 @@ All quantum simulations leverage IBM’s Qiskit ecosystem, while classical pre-p
 
 This code was developed and tested in Python 3.10.18. Compatibility with later versions is not guaranteed due to breaking changes and deprecations in certain dependencies (e.g., PySCF, Qiskit Terra, Qiskit Nature, RDKit).
 
+If a Python 3.10.18 environment can be configured in qBraid, that is ideal - just upload the four notebooks named "SARA Molecule Aging (1).ipynb". Otherwise, there are qBraid friendly ones that were uploaded - those should directly be uploaded into a python 3.12.x (or more recent) environment, however, there may be some Qiskit dependancy issues that persist.
+
 Recommended Options for Running the Code
 1. Cloud-Based Execution
 The code can be executed in a cloud-based Jupyter environment such as qBraid or Google Colab. All required packages are compatible with Python 3.10.18 and should install without issue using the provided requirements.txt. This is the most straightforward option and avoids local dependency and environment configuration challenges.
