@@ -81,7 +81,7 @@ Select the appropriate backend from the list of available devices.
 
 The code is designed for immediate compatibility with IBM QPU devices, though hardware runs are optional.
 
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_black.png" width="150">](https://account.qbraid.com?gitHubUrl=<YOUR GIT .git LINK>)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_black.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/mastermercury18/mitre-gic)
 ## Expected Inputs/Outputs
 
 Inputs:
